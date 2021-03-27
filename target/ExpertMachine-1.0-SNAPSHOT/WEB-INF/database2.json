@@ -1,0 +1,67 @@
+[
+  {
+    "cause": [
+      "A",
+      "B"
+    ],
+    "result": "G"
+  },
+  {
+    "cause": [
+      "C"
+    ],
+    "result": "H"
+  },
+  {
+    "cause": [
+      "D"
+    ],
+    "result": "J"
+  },
+  {
+    "cause": [
+      "E",
+      "F"
+    ],
+    "result": "K"
+  },
+  {
+    "cause": [
+      "G"
+    ],
+    "result": "L"
+  },
+  {
+    "cause": [
+      "H",
+      "K"
+    ],
+    "result": "M"
+  },
+  {
+    "cause": [
+      "J"
+    ],
+    "result": "N"
+  },
+  {
+    "cause": [
+      "N",
+      "L"
+    ],
+    "result": "O"
+  },
+  {
+    "cause": [
+      "M"
+    ],
+    "result": "P"
+  },
+  {
+    "cause": [
+      "P",
+      "O"
+    ],
+    "result": "S"
+  }
+]
