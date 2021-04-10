@@ -1,0 +1,12 @@
+edu\ujn\ExpertMachine\graph\WrapperNode.class
+edu\ujn\ExpertMachine\controller\SetInputServlet.class
+edu\ujn\ExpertMachine\machine\InferenceMachine.class
+edu\ujn\ExpertMachine\HelloServlet.class
+edu\ujn\ExpertMachine\controller\TestServlet.class
+edu\ujn\ExpertMachine\graph\RuleGraph.class
+edu\ujn\ExpertMachine\knowledge\Proposition.class
+edu\ujn\ExpertMachine\utils\Json.class
+edu\ujn\ExpertMachine\graph\GraphNode.class
+edu\ujn\ExpertMachine\graph\Graph.class
+edu\ujn\ExpertMachine\utils\ParseUtils.class
+edu\ujn\ExpertMachine\controller\GetGraphServlet.class
